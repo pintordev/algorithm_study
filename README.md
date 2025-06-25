@@ -12,3 +12,6 @@
 
 ## 25-06-24
 - [x] **[level #1 12944 - 평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12944/Solution_12944.java)**
+
+## 25-06-25
+- [x] **[level #1 12954 - x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12954/Solution_12954.java)**
