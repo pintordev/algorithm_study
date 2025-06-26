@@ -15,3 +15,6 @@
 
 ## 25-06-25
 - [x] **[level #1 12954 - x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12954/Solution_12954.java)**
+
+## 25-06-26
+- [x] **[level #1 87389 - 나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_87389/Solution_87389.java)**
