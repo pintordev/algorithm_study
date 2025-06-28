@@ -21,3 +21,6 @@
 
 ## 25-06-27
 - [x] **[level #1 12925 - 문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12925/Solution_12925.java)**
+
+## 25-06-28
+- [x] **[level #1 12928 - 약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12928/Solution_12928.java)**
