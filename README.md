@@ -27,3 +27,6 @@
 
 ## 25-06-29
 - [x] **[level #1 12933 - 정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12933/Solution_12933.java)**
+
+## 25-06-30
+- [x] **[level #1 12947 - 하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12947/Solution_12947.java)**
