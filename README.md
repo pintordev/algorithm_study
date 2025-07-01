@@ -30,3 +30,6 @@
 
 ## 25-06-30
 - [x] **[level #1 12947 - 하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12947/Solution_12947.java)**
+
+## 25-07-01
+- [x] **[level #1 12934 - 정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12934/Solution_12934.java)**
