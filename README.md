@@ -36,3 +36,6 @@
 
 ## 25-07-02
 - [x] **[level #1 12932 - 자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12932/Solution_12932.java)**
+
+## 25-07-03
+- [x] **[level #1 12912 - 두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12912/Solution_12912.java)**
