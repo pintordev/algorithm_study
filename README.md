@@ -42,3 +42,6 @@
 
 ## 25-07-04
 - [x] **[level #1 12916 - 문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12916/Solution_12916.java)**
+
+## 25-07-05
+- [x] **[level #1 76501 - 음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_76501/Solution_76501.java)**
