@@ -45,3 +45,6 @@
 
 ## 25-07-05
 - [x] **[level #1 76501 - 음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_76501/Solution_76501.java)**
+
+## 25-07-06
+- [x] **[level #1 86051 - 없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_86051/Solution_86051.java)**
