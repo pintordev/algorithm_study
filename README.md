@@ -48,3 +48,6 @@
 
 ## 25-07-06
 - [x] **[level #1 86051 - 없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_86051/Solution_86051.java)**
+
+## 25-07-07
+- [x] **[level #1 12910 - 나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12910/Solution_12910.java)**
