@@ -51,3 +51,6 @@
 
 ## 25-07-07
 - [x] **[level #1 12910 - 나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12910/Solution_12910.java)**
+
+## 25-07-08
+- [x] **[level #1 12919 - 서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12919/Solution_12919.java)**
