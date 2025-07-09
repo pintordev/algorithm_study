@@ -54,3 +54,6 @@
 
 ## 25-07-08
 - [x] **[level #1 12919 - 서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12919/Solution_12919.java)**
+
+## 25-07-09
+- [x] **[level #1 12943 - 콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12943/Solution_12943.java)**
