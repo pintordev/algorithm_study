@@ -57,3 +57,6 @@
 
 ## 25-07-09
 - [x] **[level #1 12943 - 콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12943/Solution_12943.java)**
+
+## 25-07-10
+- [x] **[level #1 12948 - 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12948/Solution_12948.java)**
