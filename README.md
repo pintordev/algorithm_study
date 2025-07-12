@@ -63,3 +63,6 @@
 
 ## 25-07-11
 - [x] **[level #1 12903 - 가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12903/Solution_12903.java)**
+
+## 25-07-12
+- [x] **[level #1 12935 - 제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12935/Solution_12935.java)**
