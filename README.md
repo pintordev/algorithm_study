@@ -69,3 +69,6 @@
 
 ## 25-07-13
 - [x] **[level #1 70128 - 내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_70128/Solution_70128.java)**
+
+## 25-07-14
+- [x] **[level #1 12922 - 수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12922/Solution_12922.java)**
