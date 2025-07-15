@@ -72,3 +72,6 @@
 
 ## 25-07-14
 - [x] **[level #1 12922 - 수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12922/Solution_12922.java)**
+
+## 25-07-15
+- [x] **[level #1 77884 - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_77884/Solution_77884.java)**
