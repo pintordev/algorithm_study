@@ -75,3 +75,6 @@
 
 ## 25-07-15
 - [x] **[level #1 77884 - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_77884/Solution_77884.java)**
+
+## 25-07-16
+- [x] **[level #1 12917 - 문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12917/Solution_12917.java)**
