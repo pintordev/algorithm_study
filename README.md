@@ -81,3 +81,6 @@
 
 ## 25-07-17
 - [x] **[level #1 82612 - 부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_82612/Solution_82612.java)**
+
+## 25-07-18
+- [x] **[level #1 12918 - 문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12918/Solution_12918.java)**
