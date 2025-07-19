@@ -84,3 +84,6 @@
 
 ## 25-07-18
 - [x] **[level #1 12918 - 문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12918/Solution_12918.java)**
+
+## 25-07-19
+- [x] **[level #1 12950 - 행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12950/Solution_12950.java)**
