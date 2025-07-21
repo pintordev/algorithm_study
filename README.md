@@ -90,3 +90,6 @@
 
 ## 25-07-20
 - [x] **[level #2 12939 - 최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12939/Solution_12939.java)**
+
+## 25-07-21
+- [x] **[level #1 12969 - 직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12969/Solution_12969.java)**
