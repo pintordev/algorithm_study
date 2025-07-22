@@ -93,3 +93,6 @@
 
 ## 25-07-21
 - [x] **[level #1 12969 - 직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12969/Solution_12969.java)**
+
+## 25-07-22
+- [x] **[level #2 12951 - JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12951/Solution_12951.java)**
