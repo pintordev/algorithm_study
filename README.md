@@ -99,3 +99,6 @@
 
 ## 25-07-23
 - [x] **[level #2 12909 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12909/Solution_12909.java)**
+
+## 25-07-24
+- [x] **[level #2 12941 - 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12941/Solution_12941.java)**
