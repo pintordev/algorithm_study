@@ -102,3 +102,6 @@
 
 ## 25-07-24
 - [x] **[level #2 12941 - 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12941/Solution_12941.java)**
+
+## 25-07-25
+- [x] **[level #1 12906 - 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12906/Solution_12906.java)**
