@@ -105,3 +105,6 @@
 
 ## 25-07-25
 - [x] **[level #1 12906 - 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12906/Solution_12906.java)**
+
+## 25-07-26
+- [x] **[level #1 12940 - 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12940/Solution_12940.java)**
