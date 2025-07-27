@@ -1,4 +1,4 @@
-package level1.solution_number;
+package level1.solution_12940;
 
 import java.util.Arrays;
 

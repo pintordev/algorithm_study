@@ -108,3 +108,7 @@
 
 ## 25-07-26
 - [x] **[level #1 12940 - 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12940/Solution_12940.java)**
+
+## 25-07-27
+- [x] **[level #2 70129 - 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_70129/Solution_70129.java)**
+
