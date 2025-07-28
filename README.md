@@ -112,3 +112,5 @@
 ## 25-07-27
 - [x] **[level #2 70129 - 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_70129/Solution_70129.java)**
 
+## 25-07-28
+- [x] **[level #1 147355 - 크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_147355/Solution_147355.java)**
