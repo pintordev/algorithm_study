@@ -117,3 +117,6 @@
 
 ## 25-07-29
 - [x] **[level #1 12982 - 예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12982/Solution_12982.java)**
+
+## 25-07-30
+- [x] **[level #1 68935 - 3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_68935/Solution_68935.java)**
