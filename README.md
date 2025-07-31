@@ -120,3 +120,6 @@
 
 ## 25-07-30
 - [x] **[level #1 68935 - 3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_68935/Solution_68935.java)**
+
+## 25-07-31
+- [x] **[level #1 131705 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_131705/Solution_131705.java)**
