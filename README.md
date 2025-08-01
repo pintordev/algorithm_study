@@ -123,3 +123,6 @@
 
 ## 25-07-31
 - [x] **[level #1 131705 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_131705/Solution_131705.java)**
+
+## 25-08-01
+- [x] **[level #1 12930 - 이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12930/Solution_12930.java)**
