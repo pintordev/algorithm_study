@@ -126,3 +126,6 @@
 
 ## 25-08-01
 - [x] **[level #1 12930 - 이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12930/Solution_12930.java)**
+
+## 25-08-02
+- [x] **[level #2 12924 - 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12924/Solution_12924.java)**
