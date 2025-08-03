@@ -129,3 +129,6 @@
 
 ## 25-08-02
 - [x] **[level #2 12924 - 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12924/Solution_12924.java)**
+
+## 25-08-03
+- [x] **[level #2 12911 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12911/Solution_12911.java)**
