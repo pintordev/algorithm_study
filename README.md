@@ -132,3 +132,6 @@
 
 ## 25-08-03
 - [x] **[level #2 12911 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12911/Solution_12911.java)**
+
+## 25-08-04
+- [x] **[level #1 86491 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_86491/Solution_86491.java)**
