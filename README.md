@@ -135,3 +135,6 @@
 
 ## 25-08-04
 - [x] **[level #1 86491 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_86491/Solution_86491.java)**
+
+## 25-08-05
+- [x] **[level #2 12973 - 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12973/Solution_12973.java)**
