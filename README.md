@@ -141,3 +141,6 @@
 
 ## 25-08-06
 - [x] **[level #2 12945 - 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12945/Solution_12945.java)**
+
+## 25-08-07
+- [x] **[level #1 142086 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_142086/Solution_142086.java)**
