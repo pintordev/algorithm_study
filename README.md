@@ -144,3 +144,6 @@
 
 ## 25-08-07
 - [x] **[level #1 142086 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_142086/Solution_142086.java)**
+
+## 25-08-08
+- [x] **[level #1 12926 - 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12926/Solution_12926.java)**
