@@ -1,4 +1,4 @@
-package level1.solution_number;
+package level1.solution_12926;
 
 class Solution_12926 {
     public static void main(String[] args) {

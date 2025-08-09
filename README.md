@@ -147,3 +147,6 @@
 
 ## 25-08-08
 - [x] **[level #1 12926 - 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_12926/Solution_12926.java)**
+
+## 25-08-09
+- [x] **[level #2 42842 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_42842/Solution_42842.java)**
