@@ -150,3 +150,6 @@
 
 ## 25-08-09
 - [x] **[level #2 42842 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_42842/Solution_42842.java)**
+
+## 25-08-10
+- [x] **[level #1 68644 - 두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_68644/Solution_68644.java)**
