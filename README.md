@@ -153,3 +153,6 @@
 
 ## 25-08-10
 - [x] **[level #1 68644 - 두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_68644/Solution_68644.java)**
+
+## 25-08-11
+- [x] **[level #1 81301 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_81301/Solution_81301.java)**
