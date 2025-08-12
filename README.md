@@ -156,3 +156,6 @@
 
 ## 25-08-11
 - [x] **[level #1 81301 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_81301/Solution_81301.java)**
+
+## 25-08-12
+- [x] **[level #1 42748 - K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_42748/Solution_42748.java)**
