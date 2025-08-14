@@ -162,3 +162,6 @@
 
 ## 25-08-13
 - [x] **[level #1 132267 -  콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_132267/Solution_132267.java)**
+
+## 25-08-14
+- [x] **[level #1 138477 -  명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/solution_138477/Solution_138477.java)**
