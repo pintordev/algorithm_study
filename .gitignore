@@ -42,3 +42,9 @@ out/
 ### scripts ###
 **/scripts/
 log.sh
+
+### posts ###
+**/posts/
+
+### Python ###
+**/velog-bot/

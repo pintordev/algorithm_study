@@ -168,3 +168,6 @@
 
 ## 25-08-15
 - [x] **[level #1 134240 -  푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_134240/Solution_134240.java)**
+
+## 25-08-16
+- [x] **[level #1 12915 -  문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_12915/Solution_12915.java)**
