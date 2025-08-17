@@ -171,3 +171,6 @@
 
 ## 25-08-16
 - [x] **[level #1 12915 -  문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_12915/Solution_12915.java)**
+
+## 25-08-17
+- [x] **[level #2 42885 -  구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_42885/Solution_42885.java)**
