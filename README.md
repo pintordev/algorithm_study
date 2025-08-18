@@ -161,16 +161,19 @@
 - [x] **[level #1 42748 - K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_42748/Solution_42748.java)**
 
 ## 25-08-13
-- [x] **[level #1 132267 -  콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_132267/Solution_132267.java)**
+- [x] **[level #1 132267 - 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_132267/Solution_132267.java)**
 
 ## 25-08-14
-- [x] **[level #1 138477 -  명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_138477/Solution_138477.java)**
+- [x] **[level #1 138477 - 명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_138477/Solution_138477.java)**
 
 ## 25-08-15
-- [x] **[level #1 134240 -  푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_134240/Solution_134240.java)**
+- [x] **[level #1 134240 - 푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_134240/Solution_134240.java)**
 
 ## 25-08-16
-- [x] **[level #1 12915 -  문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_12915/Solution_12915.java)**
+- [x] **[level #1 12915 - 문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_12915/Solution_12915.java)**
 
 ## 25-08-17
-- [x] **[level #2 42885 -  구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_42885/Solution_42885.java)**
+- [x] **[level #2 42885 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_42885/Solution_42885.java)**
+
+## 25-08-18
+- [x] **[level #2 138476 - 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_138476/Solution_138476.java)**
