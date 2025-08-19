@@ -177,3 +177,6 @@
 
 ## 25-08-18
 - [x] **[level #2 138476 - 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_138476/Solution_138476.java)**
+
+## 25-08-19
+- [x] **[level #1 159994 - 카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level1/solution_159994/Solution_159994.java)**
