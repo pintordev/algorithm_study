@@ -183,3 +183,6 @@
 
 ## 25-08-20
 - [x] **[level #2 12980 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_12980/Solution_12980.java)**
+
+## 25-08-21
+- [x] **[level #2 12953 - N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=java) [[코드 보기]](https://github.com/pintordev/algorithm_study/blob/main/src/main/java/level2/solution_12953/Solution_12953.java)**
